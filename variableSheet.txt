@@ -1,0 +1,9 @@
+// Values stored in TinyDB1:
+
+puzzleID{
+    0: Letter puzzle
+    1: Coloured images puzzle
+    2: Crime scene
+    3: Attorney puzzle
+    4: Dusty letter puzzle
+}
